@@ -1,5 +1,5 @@
 **Hi there 🙏,** <BR>
-**I’m Kartheek Kondubhatla**
+**I’m Kartheek**
 
 🌎 I love the world of Data Science and Mathematics  <BR>
 🤝 Let's collobarate to create challaenging projects
